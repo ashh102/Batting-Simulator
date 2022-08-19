@@ -1,0 +1,7 @@
+Seed for Python's Random Number Generator: 33
+Original Batting Average: 0.120
+Number of At Bats Simulated: 750
+
+Number of hits: 91
+Simulated Batting Average: 0.121
+Longest Streak of Hits in a Row: 3
